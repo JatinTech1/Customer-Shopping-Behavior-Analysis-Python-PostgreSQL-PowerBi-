@@ -1,0 +1,2 @@
+# Customer-Shopping-Behavior-Analysis-Python-PostgreSQL-PowerBi-
+This project focuses on analyzing customer shopping behavior using a retail transaction dataset containing 3,900 customer purchase records. The objective was to transform raw data into actionable business insights through data cleaning, exploratory data analysis (EDA), SQL-based analysis, interactive dashboarding, and business reporting.
