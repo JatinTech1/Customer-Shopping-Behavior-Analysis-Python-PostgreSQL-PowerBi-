@@ -181,36 +181,4 @@ Designed an interactive dashboard to visualize business insights.
 
 ---
 
-## 🚀 How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
-```
-
-### Install Dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2
-```
-
-### Run Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### Connect to PostgreSQL
-
-Update database credentials inside the notebook and execute the SQL scripts.
-
-### Open Power BI Dashboard
-
-Open the `.pbix` file using Power BI Desktop.
-
----
-
-## 📷 Dashboard Preview
-
 
