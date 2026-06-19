@@ -180,5 +180,6 @@ Designed an interactive dashboard to visualize business insights.
 * Gamma Presentation (PPT)
 
 ---
+<img width="1358" height="745" alt="Screenshot 2026-06-08 014039" src="https://github.com/user-attachments/assets/39ef1026-ce1c-4a38-b1c9-4e9c935fd87d" />
 
 
